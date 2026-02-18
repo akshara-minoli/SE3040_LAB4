@@ -1,3 +1,1 @@
-Hello from file.txt!
-This is a sample text file for Node.js file reading demonstration.
-Node.js makes it easy to read files asynchronously.
+Hello World!
